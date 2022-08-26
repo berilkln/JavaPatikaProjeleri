@@ -1,3 +1,3 @@
 # JavaPatikaProjeleri
 
-## [patika] (https://www.patika.dev/tr)
+## [patika](https://www.patika.dev/tr)
