@@ -1,3 +1,5 @@
+package TemelHesaplamalar;
+
 import java.util.Scanner;
 
 public class VucutKitleIndeksi {

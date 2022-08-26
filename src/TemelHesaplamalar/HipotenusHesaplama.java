@@ -1,3 +1,4 @@
+package TemelHesaplamalar;
 
 import java.util.Scanner;
 public class HipotenusHesaplama {
