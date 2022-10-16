@@ -1,4 +1,4 @@
-package Donguler;
+package Loops;
 import java.util.Scanner;
 
 public class DortveBesinKuvvetleriniBulma {

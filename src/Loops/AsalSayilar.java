@@ -1,4 +1,4 @@
-package Donguler;
+package Loops;
 
 public class AsalSayilar {
     public static void main(String[] args) {
