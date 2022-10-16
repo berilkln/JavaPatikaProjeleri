@@ -1,4 +1,4 @@
-package Metotlar;
+package Methods;
 import java.util.Scanner;
 
 public class PalindromSayilar {

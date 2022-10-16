@@ -1,4 +1,4 @@
-package KosulluIfadeler;
+package Conditionals;
 import java.util.Scanner;
 public class ArtikYilHesaplama {
     public static void main(String[] args) {

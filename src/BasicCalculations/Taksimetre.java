@@ -1,4 +1,4 @@
-package TemelHesaplamalar;
+package BasicCalculations;
 
 import java.util.Scanner;
 public class Taksimetre {
